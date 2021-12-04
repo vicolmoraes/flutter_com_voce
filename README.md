@@ -1,6 +1,8 @@
 # ola_mundo
 
-A new Flutter project.
+<p align="center">
+<img width="400" height="800" src="https://github.com/vicolmoraes/flutter_com_voce/blob/main/comvoce.png">
+  </p>
 
 ## Getting Started
 
